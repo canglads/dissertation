@@ -1,0 +1,45 @@
+backup dessertation text
+
+The motive behind the study is to find out how environmental and strategy affect the population of mangrove growth through simulation and game, and present in a way that is easy to understand even by lower ages.
+
+The aim of this project, given with a implementation, is to:
+1.	Getting the data into a spreadsheet for each play through.
+2.	Introduce temperature as a factor.
+3.	Introduce different starting scenario.
+4.	Make a working tablet version.
+5.	Make the game more appealing.
+
+The original implementation consists of 10 different levels (including introduction levels) for player to experience the life of mangrove with the goal of creating the most offspring before timer runs out, factors like density of food, variety of pathogens while only having one or few types of immunity will impact on how you choose your strategy, being accurate with the species, the spawn rate of male mangrove is respectfully lower than the hermaphrodites part, player also have a limited life to decide upon going for more self-fertile or looking for a rare male to increase survival chance for offsprings. 
+
+For the game to work as planned, there are features that are a must have and should have and will be a cherry on top for could have, these features will be separated into 2 groups: functional and non-functional.
+
+3.1.1 Functional Requirements
+Features including:
+1. A Working pause and unpause button
+2. A timer for when the game ends.
+3. A timer for when the fish’s life reach its end.
+4. The initial spawn of player
+5. The initial spawn of NPC fish
+6. The initial spawn of food
+7. The initial spawn of pathogens
+8. The Control of spawns when the number of pathogens or temperature floats
+9. The Control of player.
+10. The buttons of self-fertilising and outcrossing
+11. The spawns of self-fertilising and outcrossing
+12. The interaction between player and pathogens with or without immunity.
+13. Passing the control to one of the offspring if possible when the player die.
+14. Level selection.
+15. A working UI
+16. A working Multiplayer.
+17. Data generation and exportation.
+
+3.1.2 Non-Functional Requirements
+Features including:
+1. Maintain stable performance throughout the whole game.
+2. Accurate simulation that is close to real world.
+3. Graphics
+
+For this study Unity is favored as it is one of the popular game engine, as well as what the implementation run on, additionally it support a variety of desktop, mobile, console and virtual reality platforms, the large community of Unity also allow a great chance on providing ideas when oneself is stuck on technically problems, favoring both new comers and veteran.
+
+Work on temperature, custom scenario and get data out as spreadsheet.
+Unfortunately planning is severely limited by my lack of ability to plan plans ahead.

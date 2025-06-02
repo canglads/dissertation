@@ -1,0 +1,79 @@
+selfish rules:
+base on species she work with
+low generic diversity
+low percentage of males (~25%)
+very well self fertilising
+
+main theorem
+increase generic diversity of offspring
+  -> more resistence
+
+self fertilsing so long
+  -> when cross, lots of generic variation
+
+more variable they have, more resistence
+
+in general, more beneficial to self cross
+difficulty:
+1. find male
+2.
+3. if well adapt and offspring, chances are offsping do very well, if cross, it might be less adapt
+
+inbreed -> less generic diversity -> less resistence
+
+corss -> 1 female offspring
+score -> how many offsping you have in the time
+
+simulation:
+males don't appear all the time
+playing the game, getting the data out as graph(?)
+use that for research
+
+
+starting senario?
+start with male?
+is there a way that will end up in that specific situation (model checking)
+
+play with temperature (as a factor)
+affect pathogens (some increase, some decrease)
+decrease -> more male
+
+without needing computers, using tablet(multiplayer prob won't work)
+1 go for eductaional game, 1 simulation(store data)
+data at certain time(no males at some time?)
+
+initial state -> allow certain interaction -> state
+
+changes regarding to design -> run on a tablet/store the data
+
+simulation -> can still be a game and have a player
+
+starting senario: start with 1 fish?/ start with population -> more flexibilty
+use it as an option
+
+condition: survive, colonize the environment
+inbreed -> after many generation -> uniform(slightly different)
+cross -> offspring is VERY different
+
+
+can try to explain in graph in the background session to make people easier to digest
+
+main aim
+	subaim
+what must happen
+what should happen
+what could happen
+
+make it appealing
+
+technology aspect, gaming aspect, model checking aspect(optional)
+
+
+tails -> science festival(me)
+both deal with collecting the data -> put it into spreadsheet
+
+data to be collected
+time involving (i.e. each second)
+keeping adding
+
+to do: try make it run on android

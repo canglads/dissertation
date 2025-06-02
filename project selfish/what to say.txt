@@ -1,0 +1,5 @@
+what to say
+
+educational:
+interactive => after 2 points say high engagement
+present info => easily grasp how to play the game -> focus on info on screen

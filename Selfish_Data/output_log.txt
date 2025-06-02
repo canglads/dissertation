@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   32.0.15.6603
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\nunit.framework.dll into Unity Child Domain
+- Completed reload, in  1.272 seconds
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Desktop\project selfish - final on user 2\Selfish_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 165Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.162600 ms
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 6040 -> priority: 1 
+  Thread -> id: 63a0 -> priority: 1 
+  Thread -> id: 2fd0 -> priority: 1 
+  Thread -> id: 1f48 -> priority: 1 
+  Thread -> id: 5474 -> priority: 1 
+  Thread -> id: 4da0 -> priority: 1 
+  Thread -> id: 4dc0 -> priority: 1 
+  Thread -> id: 5e14 -> priority: 1 
+  Thread -> id: 5b40 -> priority: 1 
+  Thread -> id: 2dec -> priority: 1 

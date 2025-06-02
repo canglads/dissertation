@@ -1,0 +1,12 @@
+Games are one of the oldest form of entertainment, over the years people developed a lot on games. 
+
+
+Games can be fun and entertaining, and it can more than that. Educational games can fulfill multiple purpose besides entertainment, such as learning new knowledge, researching about behaviour and more, in order to be called educational games there are principles we need to follow, but what principles do we need to satisfy?
+
+The main aim, while given a existing implementation, is to study the principle of educational game development and to implement and extend the implementation to various directions.
+
+With the use of unity and visual studio code, I am able to review, implement and run the implementation i was given. Bug fixes and new features such as data recording (for research purpose) is added as well.
+
+During development and play test, I've come to realisation about some principle of educational games, such as clear goal on what the game wants to educate the player, a motivation to sustain attention for player to actually learn, depends on the type of game data collection will be important for behaviour and outcome researches etc., and it is more than just a game.
+
+In conclusion, developing a game is more than just stuffing codes into files, learning the amount of considerations and principles behind game development increases the admire and knowledge i have towards it.
